@@ -1,0 +1,85 @@
+header{
+    background-color: #0db9d4;
+}
+
+body{
+    background-color: #0db9d4;
+}
+
+.li-nav{
+    float: left;
+}
+
+.a-nav{
+    display: block;
+    padding: 8px;
+
+}
+
+.one{
+    background-color: #0db9d4;
+    padding: 15px;
+    line-height: 5px;
+    text-align: left;
+    margin: 0;
+}
+
+.title{
+    color: whitesmoke;
+    font-family: Calibri;
+    font-weight: normal;
+
+}
+
+.name{
+    color: #093782;
+    font-family: Impact;
+    font-weight: normal;
+
+
+}
+
+.logo-line{
+    border: 1px solid #093782;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+
+}
+
+.body-one{
+    background-color: #eff0e9;
+    width: 800px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    margin: 50px;
+    border-style: solid;
+    border-top-width: 1px;
+    border-color: lightgrey;
+    border-radius: 25px;
+
+}
+
+.body-h1{
+    font-family: Calibri;
+    text-align: center;
+    font-weight: normal;
+}
+
+.p-body{
+    font-weight: normal;
+    font-family: "Roboto Thin";
+}
+
+.ul-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+

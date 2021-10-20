@@ -16,5 +16,40 @@ public class webController {
     public String about(){
         return "about";
     }
+
+    @GetMapping("/courses")
+    public String courses(){
+        return "courses";
+    }
+
+    @GetMapping("/education")
+    public String education(){
+        return "education";
+    }
+
+    @GetMapping("/experience")
+    public String experience(){
+        return "experience";
+    }
+
+    @GetMapping("/interests")
+    public String interests(){
+        return "interests";
+    }
+
+    @GetMapping("/skills")
+    public String skills(){
+        return "skills";
+    }
+
+    @GetMapping("/voluntary")
+    public String voluntary(){
+        return "voluntary";
+    }
+
+
+
+
+
 }
 
